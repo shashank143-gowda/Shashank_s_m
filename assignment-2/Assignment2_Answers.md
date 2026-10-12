@@ -1,6 +1,6 @@
 # Assignment 2: LLM, Chatbot Architecture and Vector Databases
 
-**Name:** Your Name
+**Name:** Shashank S M
 
 ---
 
