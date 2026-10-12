@@ -106,4 +106,4 @@ Key design decisions:
 
 ## Author
 
-Shashank S M | shashanksmv511Agmail.com | GitHub: shashank143-gowda
+Shashank S M | shashanksmv511@gmail.com | GitHub: shashank143-gowda
