@@ -106,4 +106,4 @@ Key design decisions:
 
 ## Author
 
-Your Name | your.email@example.com | GitHub: your-username
+Shashank S M | shashanksmv511@gmail.com | GitHub: shashank143-gowda

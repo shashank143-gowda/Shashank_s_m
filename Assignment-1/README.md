@@ -35,4 +35,4 @@ Run each command from the repository root (use `cd ..` between them).
 
 ## Author
 
-Your Name | shashanksmv511@gmail.com | GitHub: shashank143-gowda
+Shashank S M | shashanksmv511@gmail.com | GitHub: shashank143-gowda
