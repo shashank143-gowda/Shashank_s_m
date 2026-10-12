@@ -27,4 +27,5 @@ python demo/make_diagram.py          # regenerates diagrams/chatbot_architecture
 
 ## Author
 
-Your Name | your.email@example.com | GitHub: your-username
+Shashank S M | shashanksmv511@gmail.com | GitHub: shashank143-gowda
+
